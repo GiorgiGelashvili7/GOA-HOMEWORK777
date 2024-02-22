@@ -12,22 +12,22 @@ third_name = input("which number were you born? : ")
 
 # we want to write first_name's all mathematical calculations 
 
-print(first_name * 2)
-print(first_name / 3)
-print(first_name + 20)
-print(first_name - 10)
+print(int(first_name) * int(2))
+print(int(first_name) / int(3))
+print(int(first_name) + int(20))
+print(int(first_name) - int(10))
 
 # we want to write second_name's all mathematical calculations
 
-print(second_name * 10)
-print(second_name / 9)
-print(second_name + 80)
-print(second_name - 5)
+print(int(second_name) * int(10))
+print(int(second_name) / int(9))
+print(int(second_name) + int(80))
+print(int(second_name) - int(5))
 
 # we want to write third_name's all mathematical calculations
 
-print(third_name * 20)
-print(third_name / 7)
-print(third_name + 120)
-print(third_name - 50)
+print(int(third_name) * int(20))
+print(int(third_name) / int(7))
+print(int(third_name) + int(120))
+print(int(third_name) - int(50))
 
