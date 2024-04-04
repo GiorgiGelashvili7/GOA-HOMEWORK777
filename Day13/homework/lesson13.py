@@ -60,29 +60,24 @@
 #დავუშვათ ეს რიცხვია 7
 
 
-# num = int(input("choose the number : "))
+num = int(input("choose the number : "))
 
 
-# if num > 6 and num < 8:
-#     print("true")
-# elif num < 6:
-#     print("false")
-# else:
-#     print("try again")    
+if num > 6 and num < 8:
+    print("true")
+elif num < 6:
+    print("false")
+else:
+    print("try again")    
 
-
-# დავწეროთ პროგრამა, რომელიც დაბეჭდავს მოცემული რიცხვის (მაგ 5) პირველ 10 ჯერადს for loop-ის გამოყენებით.
-
-# for i in range(0,50,5):
-#     print(i)
 
 
 
 #შევქმნათ პროგრამა, რომელიც ბეჭდავს უკუთვლას 10-დან 1-მდე for loop-ის გამოყენებით.
 
 
-sum = 10
-for i in range(10):
-    sum = sum - 1
-    print(sum)
+# sum = 10
+# for i in range(10):
+#     sum = sum - 1
+#     print(sum)
     
