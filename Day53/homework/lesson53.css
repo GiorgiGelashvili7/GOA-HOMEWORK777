@@ -1,0 +1,41 @@
+button{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 14px 147px;
+    border: 15px;   
+    
+}
+
+#email, #password{
+    padding: 12px 90px;
+    padding-left: 5px;
+    padding-right: 160px;
+    margin: 2px;
+    border: 15px;
+    border-radius: 12px;
+    background-color: rgb(233, 232, 232)
+}
+
+.div{
+    text-align: right;
+    padding-right: 150px;
+    position: relative;
+    bottom: 600px;
+}
+
+h1{   
+    padding-right: 150px;
+    text-align: right;
+    font-size:x-large
+}
+
+#am{
+    padding: 60px;
+}
+
+#img{
+    text-align: left;
+    width: 1000px;
+    height: 900px;
+}
