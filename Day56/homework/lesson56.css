@@ -1,0 +1,77 @@
+img{
+    padding: 150px 800px;
+}
+
+h1{
+    padding-left: 780px;
+    position: relative;
+    bottom: 120px;
+    
+        
+}
+
+p{
+    padding-left: 700px;
+    position: relative;
+    bottom: 100px;
+    color: gray;
+    font-size:medium
+    
+}
+
+.parent {
+    width: 700px;
+    height: 220px;
+    border-radius: 15px;
+    
+    background-size: cover; 
+    background-position: bottom;
+
+    margin-left: 580px;
+    margin-bottom:10px;
+    position: relative;
+    
+
+    
+
+    box-shadow: 5px 5px 25px rgb(137, 137, 137);
+
+    transition: 0.25s;
+}
+
+#img{
+    position: relative;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+.p{ 
+    
+    padding-bottom: 200px;
+    font-size: xx-large;
+    position: fixed;
+    padding-left: 250px;
+    
+
+} 
+
+
+
+button{
+    
+    border-radius: 70px;
+    position: relative;
+    background-color: black;
+    border-style:dashed;
+    padding: 20px 20px;
+    margin-left: 600px;
+    
+
+}
+
+.m{
+    padding-bottom: 150px;
+    position: fixed;
+    padding-left: 250px;
+}
