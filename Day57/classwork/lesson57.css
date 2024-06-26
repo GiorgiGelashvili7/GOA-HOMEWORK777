@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+    }
+
+    .parent{
+        height: 300px;
+        width: 500px;
+        display: flex;
+        border: 1px solid black;
+        justify-content: center;
+        border-radius: 25px;
+        background-image: url(./Tbilisi2.jfif);
+        background-size: cover;
+        margin-left: 600px;
+        margin-top: 40px;
+        overflow: hidden;
+        
+    }
+
+    p{
+        
+        color: white;
+        font-size: 60px;
+        text-align: center;   
+    }
+
+    .m{
+        margin-top: 30px;
+        font-size: 22px;
+    }
+
+    .class{
+        background-color: rgba(6, 145, 145, 0.205);
+        width: 100%    
+    }

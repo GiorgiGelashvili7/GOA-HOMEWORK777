@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+    color: blue;
+    
+}
+
+.div2{
+    color: brown;
+    font-size: xx-large;
+}
+
+.img{
+    justify-content: flex-end;
+    display: flex;
+    align-items: flex-end;
+}
